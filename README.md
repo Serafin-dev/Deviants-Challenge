@@ -1,5 +1,6 @@
 # Hola. 
-## . Contrato Denoms: 
+## . Contrato Denoms:  ` El código del contrato se puede encontrar en la carpeta "contracts" del repositorio`
+
 #### Network: Ropsten 
 #### Contract address: 0xa4bF486Ae86EF91537BBeD5280D84262CAcF6b62
 
