@@ -13,4 +13,4 @@
   `node .`
 
 #### 4- Entrar a http://localhost:8080 desde el navegador => index.html
-#### 5- Conectarse a Metamask, ConvertDenom, ChangeStock
+#### 5- Conectarse a Metamask, ConvertDenom, ChangeStock con la UI disponible.
