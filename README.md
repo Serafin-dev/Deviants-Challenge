@@ -1,7 +1,5 @@
-# Denoms
-
-## Hola. 
-### Contrato Denoms: 
+# Hola. 
+## Contrato Denoms: 
 Network: Ropsten 
 Contract address: 0xa4bF486Ae86EF91537BBeD5280D84262CAcF6b62
 
