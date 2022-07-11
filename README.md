@@ -3,7 +3,7 @@
 #### Network: Ropsten 
 #### Contract address: 0xa4bF486Ae86EF91537BBeD5280D84262CAcF6b62
 
-##### Es necesario previamente tener NODE JS instalado
+  ` ** Es necesario tener previamente instalado NODE JS **`
 ## . Probarlo desde un navegador. 
 #### 1- Clonar el repositorio 
 #### 2- Crear archivo .env  y copiarle lo siguiente: PORT="8080" // o el puerto que se desee
